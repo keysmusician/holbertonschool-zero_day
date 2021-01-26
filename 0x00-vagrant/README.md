@@ -1,0 +1,1 @@
+0x00-vagrant contains output of uname when run without options.
